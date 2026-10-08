@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="assets/teto-kasane-teto.gif" width="800">
 **Skills**:
 <p align="center">
   <a href="https://skillicons.dev">
