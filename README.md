@@ -1,5 +1,7 @@
 <img src="assets/teto-kasane-teto.gif" width="800" height="350">
-**Skills**:
+
+**Skills:**
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,py,ps,pr" />
