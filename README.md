@@ -1,4 +1,4 @@
-<img src="assets/teto-kasane-teto.gif" width="800" height="350">
+<img src="assets/teto.jpg" width="800" height="350">
 
 **Skills:**
 
