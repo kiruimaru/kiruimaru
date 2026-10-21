@@ -1,4 +1,9 @@
-<img src="assets/teto-kasane-teto.gif" width="800" height="350">
+<div align="center">
+
+  <!-- Неоновый киберпанк-баннер -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0a1a,100:b026ff&height=200&section=header&text=KIRUIMARU%20%2F%2F%20TETOSUPREMACY&fontSize=40&fontAlignY=35&fontColor=e14eff&animation=twinkling" width="100%" />
+
+</div>
 
 **Skills:**
 
